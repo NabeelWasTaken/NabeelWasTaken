@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Data-Postgres%20%7C%20Supabase-blue?style=for-the-badge" />
 </p>
 
-<h1 align="center">Hi, I'm Nabeel Ali 👋</h1>
+<h1 align="center">Hi, I'm Nabeel 👋</h1>
 <p align="center">
   I build practical AI, clean backends, and cloud deployments that stick.
   I like turning messy data into reliable products with clear metrics.
