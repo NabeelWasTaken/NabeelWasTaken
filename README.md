@@ -47,7 +47,7 @@
 
 ## 🧩 Selected Projects
 
-### 1) Danube Home — “Customers Also Bought”
+### 1) Danube Home — Product Affinity and Similar Items Recommendation System
 **Stack:** TensorFlow Recommenders, Keras, TF Serving, FastAPI, Redis, batch + streaming ingestion  
 **Notes:** clear separation of retrieval vs. ranking, offline evaluation + online tracking, reproducible training jobs
 
